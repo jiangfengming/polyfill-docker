@@ -1,2 +1,2 @@
-# polyfill-docker
-polyfill.io docker
+# polyfill-service-docker
+Self hosted polyfill.io
