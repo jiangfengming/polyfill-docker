@@ -1,4 +1,4 @@
-FROM node:lts
+FROM node
 
 WORKDIR /home/node
 ADD --chown=node:node https://github.com/Financial-Times/polyfill-service/archive/v4.32.2.tar.gz polyfill-service-4.32.2.tar.gz
